@@ -1,0 +1,1 @@
+select customers.customerid from customers inner join orders on orders.customerid = customers.customerid where customername = "Ana Trujillo Emparedados y helados";

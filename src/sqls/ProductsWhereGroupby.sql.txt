@@ -1,1 +1,1 @@
-https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+select * from products where categoryid >= 10;
